@@ -2,6 +2,8 @@ Primeira aula de git - eu estou feliz =)
 
 Estou aprendendo a gerenciar os arquivos.
 
-O git não é tão dificil assim.
+
+
+
 
 Incluir mais conteúdo.

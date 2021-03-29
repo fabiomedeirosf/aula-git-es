@@ -1,3 +1,5 @@
 arquivo criado remotamente
 
-novo texto
+Texto modificado!
+
+Hoje o dia está bonito e eu estou feliz =)

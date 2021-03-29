@@ -1,4 +1,4 @@
-arquivo criado remotamente
+arquivo criado remotamente com git
 
 Texto modificado!
 

@@ -1,0 +1,3 @@
+Código da nova funcionalidade na branch b1
+
+Tudo pronto!

@@ -9,3 +9,5 @@ Estou aprendendo a gerenciar os arquivos.
 Incluir mais conteúdo.
 
 function getDadosCliente() {}
+
+b2
